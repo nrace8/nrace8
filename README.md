@@ -1,5 +1,24 @@
 ## 👋  Welcome to my profile, I'm Nicholas! 
 
+![R](https://img.shields.io/badge/-R-000?&style=for-the-badge&logo=R)
+![Python](https://img.shields.io/badge/-Python-000?&style=for-the-badge&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&style=for-the-badge&logo=JavaScript)
+![Docker](https://img.shields.io/badge/-Docker-000?&style=for-the-badge&logo=Docker)
+![HTML5](https://img.shields.io/badge/-HTML5-000?&style=for-the-badge&logo=HTML5)
+![CSS](https://img.shields.io/badge/-css3-000?&style=for-the-badge&logo=css3)
+![SQL](https://img.shields.io/badge/-SQL-000?&style=for-the-badge&logo=MySQL)
+![Git](https://img.shields.io/badge/-git-000?&style=for-the-badge&logo=git)
+  
+<h2> 📈 &nbsp;𝙼𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝙷𝚒𝚜𝚝𝚘𝚛𝚢!</h2>
+<a href="https://github.com/nrace8">
+  
+  <img height="180em" src="https://streak-stats.demolab.com?user=nrace8&theme=noctis-minimus&fire=008AE6&ring=38678F" class="center"/>
+  <br>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nrace8&theme=noctis_minimus&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nrace8&theme=noctis_minimus&layout=compact" />
+</a>
+
+![Snake animation](https://github.com/nrace8/nrace8/raw/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
 <!--
 <h2>Project info</h2>
 <div>
@@ -39,12 +58,14 @@
 
 <br />
 
+
 <details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nrace8&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 </details>
+
 
 <!--
 **nrace8/nrace8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

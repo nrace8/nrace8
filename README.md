@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=%F0%9F%91%8B+Welcome+to+my+profile!+My+name+is+Nicholas!%F0%9F%98%89%F0%9F%91%86+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&random=false&width=435&lines=%F0%9F%91%8B+Welcome+to+my+profile!+;My+name+is+Nicholas!%F0%9F%98%89%F0%9F%91%86%F0%9F%91%89)](https://git.io/typing-svg)
 
 ## 👋  Welcome to my profile, I'm Nicholas! 
 

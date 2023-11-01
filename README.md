@@ -6,11 +6,11 @@
 
 <h2>:busts_in_silhouette: How to reach me</h2>
 <a href="https://linkedin.com/in/nrace">
-    <img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=/in/carol42&color=0A66C2&style=for-the-badge&logo=linkedin" height="22px" />
+    <img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=/in/nrace&color=0A66C2&style=for-the-badge&logo=linkedin" height="22px" />
 </a>
 </a>
 <a href="mailto:nrace82@gmail.com">
-    <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=carol42.helo@gmail.com&color=whitesmoke&style=for-the-badge&logo=gmail" height="22px" />
+    <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=nrace82@gmail.com&color=whitesmoke&style=for-the-badge&logo=gmail" height="22px" />
 </a>
 </br>
 

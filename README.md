@@ -8,7 +8,7 @@
 
 ### Connect with me:
 
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/nrace) 
+[![website](./img/linkedin-light.svg)](www.linkedin.com/in/nrace) 
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/nrace-dark-mode-only)
 &nbsp;&nbsp;
 

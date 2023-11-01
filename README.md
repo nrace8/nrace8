@@ -8,8 +8,8 @@
 
 ### Connect with me:
 
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/nracer#gh-light-mode-only) 
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/nracer#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/nrace-light-mode-only) 
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/nrace-dark-mode-only)
 &nbsp;&nbsp;
 
 

@@ -1,6 +1,7 @@
 ## 👋  Welcome to my profile, I'm Nicholas! 
 
-<h2>ℹ️ Project info</h2>
+<!--
+<h2>Project info</h2>
 <div>
 <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/nrace8/nrace8?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
 <img alt="GitHub forks" src="https://img.shields.io/github/forks/nrace8/nrace8?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
@@ -8,6 +9,7 @@
 <img alt="Last commit" src="https://img.shields.io/github/last-commit/nrace8/nrace8?color=F05032&logo=git&logoColor&style=for-the-badge" height="22px">
 
 </div>
+-->
 
 <h2>How to reach me</h2>
 <a href="https://linkedin.com/in/nrace">
@@ -49,6 +51,7 @@
 
 </details>
 
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
 <!--
 **nrace8/nrace8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

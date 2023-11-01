@@ -4,7 +4,7 @@
 
 ### Connect with me:
 
-(![linkedin](./img/linkedin-light.svg))(https://linkedin.com/in/nrace#gh-light-mode-only)
+![linkedin](./img/linkedin-light.svg)(https://linkedin.com/in/nrace#gh-light-mode-only)
 
           
 

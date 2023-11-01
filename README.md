@@ -1,13 +1,17 @@
-# 👋  Hi there, my name is Nicholas! 
+## 👋  Welcome to my profile, I'm Nicholas! 
 
-### Junior Software Engineer
+<h2>ℹ️ Project info</h2>
+<div>
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/nrace8/nrace8?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
+<img alt="GitHub forks" src="https://img.shields.io/github/forks/nrace8/nrace8?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
+<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/nrace8/nrace8?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
+<img alt="Last commit" src="https://img.shields.io/github/last-commit/nrace8/nrace8?color=F05032&logo=git&logoColor&style=for-the-badge" height="22px">
 
-### Connect with me:
+</div>
 
-<h2>:busts_in_silhouette: How to reach me</h2>
+<h2>How to reach me</h2>
 <a href="https://linkedin.com/in/nrace">
     <img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=/in/nrace&color=0A66C2&style=for-the-badge&logo=linkedin" height="22px" />
-</a>
 </a>
 <a href="mailto:nrace82@gmail.com">
     <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=nrace82@gmail.com&color=whitesmoke&style=for-the-badge&logo=gmail" height="22px" />
@@ -16,8 +20,7 @@
 
           
 
-### Languages and Tools:
-
+<h2>Languages & Frameworks</h2>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
@@ -45,10 +48,6 @@
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nrace8&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 </details>
-
-[linkedin]: https://linkedin.com/in/nrace
-
-### Hi there 👋
 
 <!--
 **nrace8/nrace8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

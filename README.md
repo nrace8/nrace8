@@ -1,6 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&random=false&width=435&lines=%F0%9F%91%8B+Welcome+to+my+profile!+;My+name+is+Nicholas!%F0%9F%98%89%F0%9F%91%86%F0%9F%91%89)](https://git.io/typing-svg)
-
-## 👋  Welcome to my profile, I'm Nicholas! 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=900&random=false&width=435&lines=Hello!+I'm+Nicholas!%F0%9F%98%89%F0%9F%91%86%F0%9F%91%89;%F0%9F%91%8B+Welcome+to+my+profile!)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on a personal project to help me manage my time and make scheduling more efficient.
 - 🌱 I’m currently learning Data Structures and Algorithms.

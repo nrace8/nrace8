@@ -2,6 +2,7 @@
 
 
 <h2>About Me</h2>
+
 - 🔭 I’m currently working on a personal project to help me manage my time and make scheduling more efficient.
 - 🌱 I’m currently learning Data Structures and Algorithms.
 - 👯 I’m looking to collaborate on anything. Teach me something new, I love challenges!

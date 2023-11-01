@@ -38,7 +38,7 @@
 <img align="left" alt="Express" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" style="padding-right:10px;" />
 
 <br />
----
+
 <details>
   <summary>:zap: GitHub Stats</summary>
 
@@ -46,7 +46,7 @@
 
 </details>
 
-[![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
+[![forthebadge](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMDMuOTUzMTYzMTQ2OTcyNjYiIGhlaWdodD0iMzUiIHZpZXdCb3g9IjAgMCAyMDMuOTUzMTYzMTQ2OTcyNjYgMzUiPjxyZWN0IHdpZHRoPSIxMjEuMjgxMjcyODg4MTgzNiIgaGVpZ2h0PSIzNSIgZmlsbD0iIzk0YjJiYiIvPjxyZWN0IHg9IjEyMS4yODEyNzI4ODgxODM2IiB3aWR0aD0iODIuNjcxODkwMjU4Nzg5MDYiIGhlaWdodD0iMzUiIGZpbGw9IiMyMjUxODgiLz48dGV4dCB4PSI2MC42NDA2MzY0NDQwOTE4IiB5PSIxNy41IiBmb250LXNpemU9IjEyIiBmb250LWZhbWlseT0iJ1JvYm90bycsIHNhbnMtc2VyaWYiIGZpbGw9IiMwMDAwMDAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGFsaWdubWVudC1iYXNlbGluZT0ibWlkZGxlIiBsZXR0ZXItc3BhY2luZz0iMiI+UE9XRVJFRCBCWTwvdGV4dD48dGV4dCB4PSIxNjIuNjE3MjE4MDE3NTc4MTIiIHk9IjE3LjUiIGZvbnQtc2l6ZT0iMTIiIGZvbnQtZmFtaWx5PSInTW9udHNlcnJhdCcsIHNhbnMtc2VyaWYiIGZpbGw9IiNGRkZGRkYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtd2VpZ2h0PSI5MDAiIGFsaWdubWVudC1iYXNlbGluZT0ibWlkZGxlIiBsZXR0ZXItc3BhY2luZz0iMiI+4piV77iPICAg8J+MriAg8J+lgzwvdGV4dD48L3N2Zz4=)](https://forthebadge.com)
 <!--
 **nrace8/nrace8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

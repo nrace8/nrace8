@@ -1,6 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=900&random=false&width=435&lines=Hello!+I'm+Nicholas!%F0%9F%98%89%F0%9F%91%86%F0%9F%91%89;%F0%9F%91%8B+Welcome+to+my+profile!)](https://git.io/typing-svg)
 
 
+<h2>About Me</h2>
 - 🔭 I’m currently working on a personal project to help me manage my time and make scheduling more efficient.
 - 🌱 I’m currently learning Data Structures and Algorithms.
 - 👯 I’m looking to collaborate on anything. Teach me something new, I love challenges!

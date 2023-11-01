@@ -18,9 +18,7 @@
 <a href="mailto:nrace82@gmail.com">
     <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=nrace82@gmail.com&color=whitesmoke&style=for-the-badge&logo=gmail" height="22px" />
 </a>
-</br>
-
-          
+</br>      
 
 <h2>Languages & Frameworks</h2>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
@@ -40,9 +38,6 @@
 <img align="left" alt="Express" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" style="padding-right:10px;" />
 
 <br />
-
----
-
 ---
 <details>
   <summary>:zap: GitHub Stats</summary>

@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on anything. Teach me something new, I love challenges!
 - 🤔 I’m looking for help with finding a job 🤣
 - 💬 Ask me about gardening!
-- 📫 My guilty pleasure...Apex Legends, I can't stop playing!
+- 🫣 My guilty pleasure...Apex Legends, I can't stop playing!
 - ⚡ Fun fact: I have a yellow lab that was a breeder for Southeastern Guide Dogs. She had 2 litters before retiring and has had multiple puppies make it through the program!
 
 <!--

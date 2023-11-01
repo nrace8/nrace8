@@ -1,14 +1,10 @@
-# Hi there, I'm Nicholas 👋 
+# 👋  Hi there, my name is Nicholas! 
 
-# I'm a Father, Developer, and Teacher!!
-
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2023 Goals: Learn more about Next.js and Typescript
-- ⚡ Fun fact: I love learning and challenging myself!
+### Junior Software Engineer
 
 ### Connect with me:
 
-[![website](./img/linkedin-light.svg)](www.linkedin.com/in/nrace) 
+[website](./img/linkedin-light.svg)](www.linkedin.com/in/nrace) 
           
 
 ### Languages and Tools:

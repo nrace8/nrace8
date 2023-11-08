@@ -52,11 +52,8 @@
 
 <h2>GitHub History</h2>
 <div align="center">
-    
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=nrace8&theme=blue-green" alt="GitHub Streak" /></a>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <img align="left" src="https://streak-stats.demolab.com?user=nrace8&theme=blue-green" alt="GitHub Streak" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?nrace8&theme=blue-green"=anuraghazra&layout=compact />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nrace8&theme=blue-green"&layout=compact />
 </div>
 <!--
 <details>

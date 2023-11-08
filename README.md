@@ -53,10 +53,7 @@
 <h2>GitHub History</h2>
 <div align="center">
     
-<a href="https://github.com/nrace8">
-    [![GitHub Streak](https://streak-stats.demolab.com?user=nrace8&theme=black-ice)](https://git.io/streak-stats)
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nrace8&theme=blue_green&layout=compact" />
-</a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=nrace8&theme=blue-green" alt="GitHub Streak" /></a>
 </div>
 <!--
 <details>

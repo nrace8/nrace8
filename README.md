@@ -50,7 +50,7 @@
 
 <br /> 
 
-<h2>GitHub History</h2>
+<h2>GitHub Stats</h2>
 <div align="center">
 <img align="left" src="https://streak-stats.demolab.com?user=nrace8&theme=blue-green" alt="GitHub Streak" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nrace8&theme=blue-green"&layout=compact />

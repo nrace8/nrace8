@@ -3,12 +3,12 @@
 
 <h2>About Me</h2>
 
-- 🔭 I’m currently working on a personal project to help me manage my time and make scheduling more efficient.
-- 🌱 I’m currently learning Data Structures and Algorithms.
-- 👯 I’m looking to collaborate on anything. Teach me something new, I love challenges!
-- 🤔 I’m looking for help with finding a job 🤣
-- 💬 Ask me about gardening! Growing your own food is very rewarding!
-- 🫣 My guilty pleasure...Apex Legends...
+Hey there! 👋
+I'm Nicholas...
+
+- 🔭 I’m a Software Engineer... 
+- 🌱 My background is in entrepreneurship, graphic arts and civil engineering...
+- 🤔 When I close my laptop...You can find me playing with my kids, cooking, or enjoying some time outdoors...
 - ⚡ Fun fact: I have a yellow lab that was a breeder for Southeastern Guide Dogs. She had 2 litters before retiring and has had multiple puppies make it through the program!
 
 <!--
@@ -22,7 +22,7 @@
 </div>
 -->
 
-<h2>How to reach me</h2>
+<h2>Contact Me</h2>
 <a href="https://linkedin.com/in/nrace">
     <img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=/in/nrace&color=0A66C2&style=for-the-badge&logo=linkedin" height="22px" />
 </a>
